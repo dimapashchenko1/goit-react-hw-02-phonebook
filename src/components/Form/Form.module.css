@@ -16,18 +16,6 @@
   flex-direction: column;
 }
 
-.btn {
-  text-decoration: none;
-  display: inline-block;
-  padding: 5px 10px;
-  margin: 10px;
-  border-radius: 10px;
-  font-family: "Montserrat", sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-}
-
 .btn:hover {
   box-shadow: 2px 2px 5px #aaaaaa;
 }
@@ -58,10 +46,11 @@
   font-family: "Montserrat", sans-serif;
   color: #aaaaaa;
   transition: 0.2s ease-in-out;
-  padding: 7px 10px;
+  padding: 5px 10px;
   margin: 10px;
   border-radius: 10px;
   letter-spacing: 2px;
+  color: rgba(0, 0, 0, 0.671);
 }
 .btn:before {
   content: "";

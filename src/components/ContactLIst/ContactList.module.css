@@ -26,6 +26,7 @@
   font-family: "Montserrat", sans-serif;
   color: #aaaaaa;
   transition: 0.2s ease-in-out;
+  color: rgba(0, 0, 0, 0.671);
 }
 .btn:before {
   content: "";
